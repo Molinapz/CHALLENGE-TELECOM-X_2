@@ -1,0 +1,5 @@
+modelo,division,exactitud,precision,recall,puntaje_f1,verdaderos_negativos,falsos_positivos,falsos_negativos,verdaderos_positivos
+Bosque Aleatorio,entrenamiento,0.7952,0.5782,0.8435,0.6861,3219,920,234,1261
+Regresion Logistica,entrenamiento,0.752,0.5211,0.8107,0.6344,3025,1114,283,1212
+Bosque Aleatorio,prueba,0.7672,0.5429,0.7781,0.6396,790,245,83,291
+Regresion Logistica,prueba,0.7395,0.506,0.7861,0.6157,748,287,80,294

@@ -1,0 +1,5 @@
+metodo_pago,clientes,tasa_cancelacion
+Cheque electronico,2365,45.29
+Cheque enviado por correo,1612,19.11
+Transferencia bancaria automatica,1544,16.71
+Tarjeta de credito automatica,1522,15.24
